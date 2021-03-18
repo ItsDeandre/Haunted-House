@@ -1,0 +1,89 @@
+/* CENTER IMGS
+*/
+.doors {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: black;
+}
+
+/* Fix some things up */
+.text {
+    display: flex;
+    Justify-content: space-around;
+}
+
+.text {
+    color: red;
+}
+
+.choice {
+    color: red;
+}
+
+.hallway {
+    align-content: center;
+}
+
+.hallwayimg {
+    width: 50%;
+}
+
+.dont {
+    color: white;
+}
+
+.ending1 {
+    text-align: center;
+}
+
+.ending2 {
+    text-align: center;
+}
+
+/* Hide imgs/text */
+.choice {
+    display: none;
+}
+
+.hallway {
+    display: none;
+}
+
+.buttons2 {
+    display: none;
+}
+
+.wrong-1 {
+    display: none;
+}
+
+.wrong-2 {
+    display: none;
+}
+
+.dont {
+    display: none;
+}
+
+.do {
+    display: none;
+}
+
+.ending1 {
+    display: none;
+}
+
+.ending2 {
+    display: none;
+}
+.secret {
+    display:none;
+}
